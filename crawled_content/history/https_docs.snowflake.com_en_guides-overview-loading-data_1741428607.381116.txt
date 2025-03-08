@@ -1,0 +1,42 @@
+Load data into Snowflake | Snowflake Documentation
+Load data into Snowflake
+¶
+Data can be loaded into Snowflake in a number of ways.
+The following topics provide an overview of data loading concepts, tasks, tools, and techniques to quick and easily load data into your Snowflake database.
+Overview of data loading
+Options available to load data into Snowflake.
+Summary of data loading features
+Reference of the supported features for using the
+COPY INTO <table>
+command to load data from files.
+Data loading considerations
+Best practices, general guidelines, and important considerations for bulk data loading.
+Working with Amazon S3-compatible storage
+Instructions for accessing data in other storage.
+Load data using the web interface
+Instructions for loading limited amounts of data using the web interface.
+Introduction to Loading Semi-structured Data
+Considerations for loading semi-structured data.
+Introduction to unstructured data
+Considerations for loading unstructured data.
+Bulk loading from a local file system
+Instructions for loading data in bulk using the COPY command.
+Snowpipe
+Instructions for loading data continuously using Snowpipe.
+Snowpipe Streaming
+Instructions for loading data streams continuously using Snowpipe Streaming.
+Transforming data during a load
+Instructions for transforming data while loading it into a table using the COPY INTO command.
+Querying Data in Staged Files
+Instructions on using standard SQL to query internal and external named stages.
+Querying Metadata for Staged Files
+Instructions on querying metadata in internal and external stages.
+Language
+:
+English
+English
+Français
+Deutsch
+日本語
+한국어
+Português

@@ -1,0 +1,87 @@
+Getting Started - Snowflake Documentation
+Getting Started
+Begin your adventure: a comprehensive guide to getting started with Snowflake and making the most of its features and benefits.
+Introduction to Snowflake
+Basic information and instructions for first-time users of Snowflake.
+Before you begin
+Make sure that you meet the prerequisites for using our applications that connect to Snowflake.
+Logging into Snowflake
+Learn how to use Snowsight or SnowSQL to log into Snowflake.
+Snowsight Quick Tour
+Learn about the features in Snowsight that you can use to manage database objects and query data.
+Learn the Key Concepts
+These topics introduce the Snowflake architecture and basic features
+Architecture
+Learn about Snowflake’s architecture, how data is stored, and how queries are processed.
+Cloud Platforms
+Learn about the cloud platforms that are supported for use with Snowflake.
+Cloud Regions
+Learn about the cloud provider regions in which Snowflake accounts are hosted.
+Editions
+Learn about the different editions provided by Snowflake and the features and levels of service offered with each edition.
+Releases
+Learn about our process for deploying new releases.
+Features
+Learn about some of the key features of Snowflake.
+Manage Your Data
+Data Lifecycle
+Learn about how data is organized, stored, queried, and managed.
+Continuous Data Protection
+Learn about how your data is protected and how you can access and recover your data.
+Regulatory Compliance
+Learn about our commitment to meeting industry-standard regulatory compliance requirements.
+Start Learning
+TUTORIAL
+Snowflake in 20 Minutes
+Learn how to create Snowflake objects, load data, and query data.
+TUTORIAL
+Create Users and Grant Roles
+Learn how to create a user and grant roles to it using SQL.
+TUTORIAL
+Load and Query Sample Data Using SQL
+Learn how to load and query Tasty Bytes sample data using SQL.
+TUTORIAL
+Load and Query Sample Data Using Snowpark Python
+Learn how to load and query Tasty Bytes sample data using Python.
+TUTORIAL
+Load Data from Cloud Storage (Amazon S3)
+Learn how to load a table from an S3 bucket.
+TUTORIAL
+Load Data from Cloud Storage (Microsoft Azure)
+Learn how to load a table from an Azure container.
+TUTORIAL
+Load Data from Cloud Storage (Google)
+Learn how to load a table from a GCS bucket.
+TUTORIAL
+Bulk Loading from a Local File System Using COPY
+Learn how to load data from files in your local file system into a table.
+TUTORIAL
+Bulk Loading from Amazon S3 Using COPY
+Learn how to load data from files in an existing Amazon Simple Storage Service (Amazon S3) bucket into a table.
+TUTORIAL
+JSON Basics
+Learn how to load JSON data from files, query the data, and flatten and store the data in a table.
+TUTORIAL
+Loading JSON Data into a Relational Table
+Learn more about how to store JSON objects, extract JSON elements, and transform those elements into table columns.
+TUTORIAL
+Loading and Unloading Parquet Data
+Learn how to upload Parquet data by transforming elements of a staged Parquet file directly into table columns.
+Sample Data Sets
+Snowflake provides sample data sets, such as the industry-standard TPC-DS and TPC-H benchmarks, for evaluating and testing a broad range of Snowflake’s SQL support.
+See all
+SNOWFLAKE_SAMPLE_DATA
+The sample database, SNOWFLAKE_SAMPLE_DATA, is identical to the databases that you create in your account, except that it is read-only.
+TPC-DS
+TPC-DS models the decision support functions of a retail product supplier. The supporting schema contains vital business information, such as customer, order, and product data.
+TPC-H
+TPC-H is a decision support benchmark. It consists of a suite of business-oriented ad hoc queries and concurrent data modifications.
+Language
+:
+English
+English
+Français
+Deutsch
+日本語
+한국어
+Português

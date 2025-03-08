@@ -1,0 +1,8 @@
+Title: Snowflake Documentation
+
+Basic information and instructions for first-time users of Snowflake.
+Instructions on performing various Snowflake operations.
+Write applications that extend Snowflake, act as a client, or act as an integrating component.
+Reference for SQL data types, SQL commands, SQL functions, SQL classes, scripting, views, and other areas
+Tutorials to help you learn the basics of using Snowflake
+Overview of the new features, enhancements, and important fixes introduced in the most recent releases of Snowflake.
