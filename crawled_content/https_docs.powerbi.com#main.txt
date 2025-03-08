@@ -1,0 +1,453 @@
+Title: Power BI documentation - Power BI | Microsoft Learn
+
+Table of contents
+Power BI documentation
+Power BI amplifies your insights and the value of your data. With Power BI documentation, you get expert information and answers to address your needs, no matter how you use Power BI.
+What's new
+Join the Fabric Community Conference
+Get started
+Download Power BI Desktop for free
+How-To Guide
+Create report pages with Copilot
+Tutorial
+Microsoft Fabric for Power BI users
+How-To Guide
+Share Power BI reports and dashboards
+Training
+Get started with DAX
+How-To Guide
+Configure scheduled refresh
+Get started
+Row-level security (RLS) in Power BI
+Do more in Power BI
+Use Power BI software services, apps, and connectors to turn your unrelated sources of data into coherent, visually immersive, and interactive insights.
+Power BI: Get started
+What is Power BI?
+Get started with Power BI Desktop
+Get started creating in the Power BI service
+See all getting started docs
+Copilot in Power BI (preview)
+Copilot for Power BI overview
+Update your data model to work with Copilot (preview)
+Create report pages with Copilot for Power BI (preview)
+See all Copilot docs
+Develop in Power BI
+What is Power BI embedded analytics?
+Power BI Embedded
+Develop your own Power BI visual
+See all developer docs
+Connect to data
+Connect to data
+On-premises data gateways
+Discover data on the data hub
+See all data connection docs
+Model data
+Add a custom column
+Create calculated columns
+Create and manage relationships
+See all data modeling docs
+Create reports and dashboards
+Design reports for accessibility
+Create a paginated report based on a shared semantic model
+See all report creation docs
+Collaborate and share
+Share dashboards and reports
+Create workspaces
+Add the Power BI app to Microsoft Teams
+See all collaboration docs
+Integrate across products
+Azure and Power BI
+Analyze in Excel
+Export and email with Power Automate
+See all product integration docs
+Enterprise
+Licensing for users in your organization
+Security
+Data protection
+See all enterprise docs
+Administer Power BI
+What is Power BI administration?
+Admin portal settings
+Use the same account for Power BI and Azure
+See all admin docs
+Power BI for business users
+Am I a Power BI business user?
+Get around in the Power BI service
+What is a dashboard?
+See all business user docs
+Power BI in the mobile apps
+What are the mobile apps?
+Explore dashboards and reports
+Get data on the go with the mobile apps
+See all mobile apps docs
+Additional Power BI resources
+Best practices guidance
+Fabric adoption roadmap
+Power BI implementation planning
+Optimization guide for Power BI
+See all guidance docs
+Learning
+Jumpstart your career with the Career Hub
+Skill up with the Cloud Skills Challenge
+Explore our learning paths
+Explore Fabric capabilities
+See more
+Troubleshooting
+Known issues for Fabric and Power BI features
+Troubleshoot refresh scenarios
+Troubleshoot subscribing to reports and dashboards
+See all troubleshooting docs
+Support
+Power BI Pro and Power BI Premium support options
+Track Power BI service health in Microsoft 365
+Move Power BI to another region
+See all support docs
+Community
+Ask questions in our forums
+Join a user group
+Vote and contribute product ideas
+Update blog: What's new
+See more
+Related tools in the Power BI family
+Power BI Report Builder
+Power BI Report Builder is a standalone tool for authoring paginated reports that you can publish to the Power BI service. Paginated reports are designed to be printed or shared.
+Power BI Report Server
+Explore Power BI Report Server, an on-premises report server with a web portal in which you display and manage Power BI reports, paginated reports, and KPIs.
+Power BI REST APIs
+The Power BI REST APIs provide service endpoints for embedding, administration, and user resources.
+Power BI embedded analytics client APIs
+A client-side library for embedding Power BI using JavaScript or TypeScript.
+Content about related products
+Microsoft Fabric
+The unified platform to meet your organization's data and analytics needs. Discover the capabilities Fabric has to offer, understand how it works, and how to use it.
+Power Platform
+Make the most of Microsoft Power Platform products with online training courses, docs, and videos covering product capabilities and how-to guides.
+Power Apps
+Quickly build low-code apps that modernize precesses and solve tough business challenges in your organization.
+Power Automate
+Create automated workflows between your favorite apps and services to synchronize files, get notifications, and more.
+Power Pages
+Design, host, and administer secure, modern, and low-code business websites.
+Power Virtual Agents
+Create powerful bots using a guided, no-code graphical interface with no need for data scientists or developers.
+Power BI documentation
+Power BI amplifies your insights and the value of your data. With Power BI documentation, you get expert information and answers to address your needs, no matter how you use Power BI.
+What's new
+Join the Fabric Community Conference
+Get started
+Download Power BI Desktop for free
+How-To Guide
+Create report pages with Copilot
+Tutorial
+Microsoft Fabric for Power BI users
+How-To Guide
+Share Power BI reports and dashboards
+Training
+Get started with DAX
+How-To Guide
+Configure scheduled refresh
+Get started
+Row-level security (RLS) in Power BI
+Do more in Power BI
+Use Power BI software services, apps, and connectors to turn your unrelated sources of data into coherent, visually immersive, and interactive insights.
+Power BI: Get started
+What is Power BI?
+Get started with Power BI Desktop
+Get started creating in the Power BI service
+See all getting started docs
+Copilot in Power BI (preview)
+Copilot for Power BI overview
+Update your data model to work with Copilot (preview)
+Create report pages with Copilot for Power BI (preview)
+See all Copilot docs
+Develop in Power BI
+What is Power BI embedded analytics?
+Power BI Embedded
+Develop your own Power BI visual
+See all developer docs
+Connect to data
+Connect to data
+On-premises data gateways
+Discover data on the data hub
+See all data connection docs
+Model data
+Add a custom column
+Create calculated columns
+Create and manage relationships
+See all data modeling docs
+Create reports and dashboards
+Design reports for accessibility
+Create a paginated report based on a shared semantic model
+See all report creation docs
+Collaborate and share
+Share dashboards and reports
+Create workspaces
+Add the Power BI app to Microsoft Teams
+See all collaboration docs
+Integrate across products
+Azure and Power BI
+Analyze in Excel
+Export and email with Power Automate
+See all product integration docs
+Enterprise
+Licensing for users in your organization
+Security
+Data protection
+See all enterprise docs
+Administer Power BI
+What is Power BI administration?
+Admin portal settings
+Use the same account for Power BI and Azure
+See all admin docs
+Power BI for business users
+Am I a Power BI business user?
+Get around in the Power BI service
+What is a dashboard?
+See all business user docs
+Power BI in the mobile apps
+What are the mobile apps?
+Explore dashboards and reports
+Get data on the go with the mobile apps
+See all mobile apps docs
+Additional Power BI resources
+Best practices guidance
+Fabric adoption roadmap
+Power BI implementation planning
+Optimization guide for Power BI
+See all guidance docs
+Learning
+Jumpstart your career with the Career Hub
+Skill up with the Cloud Skills Challenge
+Explore our learning paths
+Explore Fabric capabilities
+See more
+Troubleshooting
+Known issues for Fabric and Power BI features
+Troubleshoot refresh scenarios
+Troubleshoot subscribing to reports and dashboards
+See all troubleshooting docs
+Support
+Power BI Pro and Power BI Premium support options
+Track Power BI service health in Microsoft 365
+Move Power BI to another region
+See all support docs
+Community
+Ask questions in our forums
+Join a user group
+Vote and contribute product ideas
+Update blog: What's new
+See more
+Related tools in the Power BI family
+Power BI Report Builder
+Power BI Report Builder is a standalone tool for authoring paginated reports that you can publish to the Power BI service. Paginated reports are designed to be printed or shared.
+Power BI Report Server
+Explore Power BI Report Server, an on-premises report server with a web portal in which you display and manage Power BI reports, paginated reports, and KPIs.
+Power BI REST APIs
+The Power BI REST APIs provide service endpoints for embedding, administration, and user resources.
+Power BI embedded analytics client APIs
+A client-side library for embedding Power BI using JavaScript or TypeScript.
+Content about related products
+Microsoft Fabric
+The unified platform to meet your organization's data and analytics needs. Discover the capabilities Fabric has to offer, understand how it works, and how to use it.
+Power Platform
+Make the most of Microsoft Power Platform products with online training courses, docs, and videos covering product capabilities and how-to guides.
+Power Apps
+Quickly build low-code apps that modernize precesses and solve tough business challenges in your organization.
+Power Automate
+Create automated workflows between your favorite apps and services to synchronize files, get notifications, and more.
+Power Pages
+Design, host, and administer secure, modern, and low-code business websites.
+Power Virtual Agents
+Create powerful bots using a guided, no-code graphical interface with no need for data scientists or developers.
+Power BI documentation
+Power BI amplifies your insights and the value of your data. With Power BI documentation, you get expert information and answers to address your needs, no matter how you use Power BI.
+What's new
+Join the Fabric Community Conference
+What's new
+Join the Fabric Community Conference
+Get started
+Download Power BI Desktop for free
+Get started
+Download Power BI Desktop for free
+How-To Guide
+Create report pages with Copilot
+How-To Guide
+Create report pages with Copilot
+Tutorial
+Microsoft Fabric for Power BI users
+Tutorial
+Microsoft Fabric for Power BI users
+How-To Guide
+Share Power BI reports and dashboards
+How-To Guide
+Share Power BI reports and dashboards
+Training
+Get started with DAX
+Training
+Get started with DAX
+How-To Guide
+Configure scheduled refresh
+How-To Guide
+Configure scheduled refresh
+Get started
+Row-level security (RLS) in Power BI
+Get started
+Row-level security (RLS) in Power BI
+Power BI: Get started
+What is Power BI?
+Get started with Power BI Desktop
+Get started creating in the Power BI service
+See all getting started docs
+What is Power BI?
+Get started with Power BI Desktop
+Get started creating in the Power BI service
+Copilot in Power BI (preview)
+Copilot for Power BI overview
+Update your data model to work with Copilot (preview)
+Create report pages with Copilot for Power BI (preview)
+See all Copilot docs
+Copilot for Power BI overview
+Update your data model to work with Copilot (preview)
+Create report pages with Copilot for Power BI (preview)
+Develop in Power BI
+What is Power BI embedded analytics?
+Power BI Embedded
+Develop your own Power BI visual
+See all developer docs
+What is Power BI embedded analytics?
+Power BI Embedded
+Develop your own Power BI visual
+Connect to data
+Connect to data
+On-premises data gateways
+Discover data on the data hub
+See all data connection docs
+Connect to data
+On-premises data gateways
+Discover data on the data hub
+Model data
+Add a custom column
+Create calculated columns
+Create and manage relationships
+See all data modeling docs
+Add a custom column
+Create calculated columns
+Create and manage relationships
+Create reports and dashboards
+Design reports for accessibility
+Create a paginated report based on a shared semantic model
+See all report creation docs
+Design reports for accessibility
+Create a paginated report based on a shared semantic model
+Collaborate and share
+Share dashboards and reports
+Create workspaces
+Add the Power BI app to Microsoft Teams
+See all collaboration docs
+Share dashboards and reports
+Create workspaces
+Add the Power BI app to Microsoft Teams
+Integrate across products
+Azure and Power BI
+Analyze in Excel
+Export and email with Power Automate
+See all product integration docs
+Azure and Power BI
+Analyze in Excel
+Export and email with Power Automate
+Enterprise
+Licensing for users in your organization
+Security
+Data protection
+See all enterprise docs
+Licensing for users in your organization
+Security
+Data protection
+Administer Power BI
+What is Power BI administration?
+Admin portal settings
+Use the same account for Power BI and Azure
+See all admin docs
+What is Power BI administration?
+Admin portal settings
+Use the same account for Power BI and Azure
+Power BI for business users
+Am I a Power BI business user?
+Get around in the Power BI service
+What is a dashboard?
+See all business user docs
+Am I a Power BI business user?
+Get around in the Power BI service
+What is a dashboard?
+Power BI in the mobile apps
+What are the mobile apps?
+Explore dashboards and reports
+Get data on the go with the mobile apps
+See all mobile apps docs
+What are the mobile apps?
+Explore dashboards and reports
+Get data on the go with the mobile apps
+Best practices guidance
+Fabric adoption roadmap
+Power BI implementation planning
+Optimization guide for Power BI
+See all guidance docs
+Fabric adoption roadmap
+Power BI implementation planning
+Optimization guide for Power BI
+Learning
+Jumpstart your career with the Career Hub
+Skill up with the Cloud Skills Challenge
+Explore our learning paths
+Explore Fabric capabilities
+See more
+Jumpstart your career with the Career Hub
+Skill up with the Cloud Skills Challenge
+Explore our learning paths
+Explore Fabric capabilities
+Troubleshooting
+Known issues for Fabric and Power BI features
+Troubleshoot refresh scenarios
+Troubleshoot subscribing to reports and dashboards
+See all troubleshooting docs
+Known issues for Fabric and Power BI features
+Troubleshoot refresh scenarios
+Troubleshoot subscribing to reports and dashboards
+Support
+Power BI Pro and Power BI Premium support options
+Track Power BI service health in Microsoft 365
+Move Power BI to another region
+See all support docs
+Power BI Pro and Power BI Premium support options
+Track Power BI service health in Microsoft 365
+Move Power BI to another region
+Community
+Ask questions in our forums
+Join a user group
+Vote and contribute product ideas
+Update blog: What's new
+See more
+Ask questions in our forums
+Join a user group
+Vote and contribute product ideas
+Update blog: What's new
+Power BI Report Builder
+Power BI Report Builder is a standalone tool for authoring paginated reports that you can publish to the Power BI service. Paginated reports are designed to be printed or shared.
+Power BI Report Server
+Explore Power BI Report Server, an on-premises report server with a web portal in which you display and manage Power BI reports, paginated reports, and KPIs.
+Power BI REST APIs
+The Power BI REST APIs provide service endpoints for embedding, administration, and user resources.
+Power BI embedded analytics client APIs
+A client-side library for embedding Power BI using JavaScript or TypeScript.
+Microsoft Fabric
+The unified platform to meet your organization's data and analytics needs. Discover the capabilities Fabric has to offer, understand how it works, and how to use it.
+Power Platform
+Make the most of Microsoft Power Platform products with online training courses, docs, and videos covering product capabilities and how-to guides.
+Power Apps
+Quickly build low-code apps that modernize precesses and solve tough business challenges in your organization.
+Power Automate
+Create automated workflows between your favorite apps and services to synchronize files, get notifications, and more.
+Power Pages
+Design, host, and administer secure, modern, and low-code business websites.
+Power Virtual Agents
+Create powerful bots using a guided, no-code graphical interface with no need for data scientists or developers.

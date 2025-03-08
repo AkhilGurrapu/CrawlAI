@@ -1,0 +1,28 @@
+Drivers | Snowflake Documentation
+Drivers
+¶
+Using languages such as Go, C#, and Python, you can write applications that perform operations on Snowflake. Use the drivers described in
+this section to access Snowflake from applications written in the driver’s supported language.
+Go Snowflake Driver
+Connect to Snowflake and perform all standard operations with an interface for developing applications using the Go programming language.
+JDBC Driver
+Connect to Snowflake from most client tools/applications that support JDBC.
+.NET Driver
+Connect to Snowflake with an interface to the Microsoft .NET open source software framework for developing applications.
+Node.js Driver
+Connect to Snowflake with a native asynchronous Node.js interface.
+ODBC Driver
+Connect to Snowflake using ODBC-based client applications.
+PHP PDO Driver for Snowflake
+Connect to Snowflake and perform all standard operations with an interface for developing PHP applications.
+Snowflake Connector for Python
+Develop Python applications that can connect to Snowflake and perform all standard operations.
+Language
+:
+English
+English
+Français
+Deutsch
+日本語
+한국어
+Português

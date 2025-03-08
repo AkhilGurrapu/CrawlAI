@@ -1,0 +1,253 @@
+Developer - Snowflake Documentation
+Develop Apps and Extensions
+Write applications that extend Snowflake, act as a client, or act as an integrating component.
+SNOWPARK API
+Run Python, Java, and Scala Code in Snowpark
+Using Snowpark libraries and code execution environments, you can run Python and other programming languages next to your data in Snowflake.
+Build
+Enable all data users to bring their work to a single platform with native support for Python, Java, Scala, and more.
+Secure
+Apply consistent controls trusted by over 500 of the Forbes Global 2000 across all workloads.
+Optimize
+Benefit from the Snowflake Data Cloud with super price/performance and near-zero maintenance.
+Get to know Snowpark API
+Snowpark is the set of libraries and code execution environments that run Python and other programming languages next to your data in Snowflake. Snowpark can be used to build data pipelines, ML models, apps, and other data processing tasks.
+Learn more
+Code in Snowpark with multiple languages
+Run custom Python, Java, or Scala code directly in Snowflake with Snowpark user-defined functions (UDFs) and stored procedures. There are no separate clusters to manage, scale, or operate.
+Python
+Java
+Scala
+from
+snowflake.snowpark
+import
+Session
+from
+snowflake.snowpark.functions
+import
+col
+# Create a new session, using the connection properties specified in a file.
+new_session
+=
+Session
+.
+builder
+.
+configs
+(
+connection_parameters
+)
+.
+create
+()
+# Create a DataFrame that contains the id, name, and serial_number
+# columns in the “sample_product_data” table.
+df
+=
+session
+.
+table
+(
+"sample_product_data"
+)
+.
+select
+(
+col
+(
+"id"
+),
+col
+(
+"name"
+),
+col
+(
+"name"
+),
+col
+(
+"serial_number"
+)
+)
+# Show the results
+df
+.
+show
+()
+Developer Guide
+API Reference
+Try Snowpark
+Use the following quickstart tutorials to get a hands-on introduction to Snowpark
+TUTORIAL
+Getting Started with Data Engineering and ML using Snowpark for Python
+Follow this step-by-step guide to transform raw data into an interactive application using Python with Snowpark and Streamlit.
+TUTORIAL
+Data Engineering Pipelines with Snowpark Python
+Learn how to build end-to-end data engineering pipelines using Snowpark with Python.
+TUTORIAL
+Intro to Machine Learning with Snowpark ML
+Build an end-to-end ML workflow from feature engineering to model training and batch inference using Snowpark ML.
+Snowflake ML
+End-to-End Machine Learning in Snowflake
+Pre-process data and train, manage, and deploy machine learning models all within Snowflake.
+Developer Guide
+Model development
+Transform data and train models. Run your ML pipeline within security and governance frameworks.
+Developer Guide
+Model Registry
+Securely manage models and their metadata in Snowflake regardless of origin.
+Developer Guide
+Feature Store
+Make creating, storing, and managing features for machine learning workloads easier and more efficient.
+Developer Guide
+Datasets
+Immutable, versioned snapshots of data ready to be fed to popular machine learning frameworks.
+Developer Guide
+Data Connectors
+Provide Snowflake data to PyTorch and Tensorflow in their own formats.
+API Reference
+Snowpark ML
+The Python API for Snowflake ML modeling and ML Ops features.
+Snowflake Python APIs
+Manage Snowflake resources, apps, and data pipelines
+Create and manage Snowflake resources across data engineering, Snowpark, Snowpark ML, and application workloads using a unified, first-class Python API.
+Developer Guide
+Snowflake Python APIs overview
+Learn about the Snowflake Python APIs and how to get started.
+Tutorial
+Getting started with the Snowflake Python APIs
+Learn the fundamentals for creating and managing Snowflake resources using the Snowflake Python APIs.
+API Reference
+Snowflake Python APIs reference
+Reference for the Snowflake Python APIs.
+NATIVE APPS FRAMEWORK
+Build secure data applications
+Expand the capabilities of other Snowflake features by sharing data and related business logic with other Snowflake accounts.
+Tutorial
+Developing an Application with the Native Apps Framework
+Follow this step-by-step tutorial to create a secure data application using the Native Apps Framework.
+Developer Guide
+About the Native Apps Framework
+Learn about the building blocks of the Native Apps Framework, including key terms and components.
+Developer Guide
+Native Apps Framework Workflows
+Understand the end-to-end workflows for developing, publishing, and using applications.
+SQL Reference
+Native Apps Framework Commands
+View the SQL commands used to create and use database objects supported by the Native Apps Framework.
+SNOWPARK CONTAINER SERVICES
+Deploy, manage, and scale containerized applications
+Build atop a fully-managed service that comes with Snowflake security, configuration, and operational best practices built in.
+Developer Guide
+Snowpark Container Services Overview
+Learn about Snowpark Container Services, including how it works and how to get started.
+Tutorial
+Introductory tutorials
+Learn the basics of creating a Snowpark Container Services service.
+Tutorial
+Advanced tutorials
+Learn advanced concepts such as service-to-service communications.
+STREAMLIT IN SNOWFLAKE
+Develop custom web apps for machine learning and data science
+Securely build, deploy, and share Streamlit apps on Snowflake’s data cloud.
+Developer Guide
+About Streamlit in Snowflake
+Learn about deploying Streamlit apps by using Streamlit in Snowflake.
+Developer Guide
+Example - Accessing Snowflake data from Streamlit in Snowflake
+Learn how to securely access Snowflake data from a Streamlit app.
+Developer Guide
+Developing a Streamlit app by using Snowsight
+Learn how to quickly create, use, and share a Streamlit app in Snowsight.
+FUNCTIONS AND PROCEDURES
+Extend Snowflake Capabilities
+Enhance and extend Snowflake by writing procedures and user-defined functions. In both cases, you write the logic in one of the supported programming languages.
+Developer Guide
+Stored Procedures or UDFs
+Understand key differences between procedures and UDFs.
+Developer Guide
+Stored Procedures
+Perform scheduled or on-demand operations by executing code or SQL statements.
+Developer Guide
+User-Defined Functions (UDFs)
+Run logic to calculate and return data for batch processing and integrating custom logic into SQL.
+Developer Guide
+Design Guidelines
+General guidelines on security, conventions, and more.
+Developer Guide
+Packaging Handler Code
+Build a JAR file that contains the handler and its dependencies. Reference the handler JAR on a stage.
+Developer Guide
+Writing External Functions
+Writing external functions you can use to invoke code on other systems.
+Developer Guide
+Logging and Tracing
+Capture log and trace messages in an event table that you can query for analysis later.
+Developer Guide
+External Network Access
+A guide for accessing network locations external to Snowflake.
+KAFKA AND SPARK CONNECTORS
+Integrate with Other Systems
+Snowflake includes connectors with APIs for integrating with systems outside Snowflake.
+User Guide
+Snowflake Ecosystem
+Integrate Snowflake with many other systems for exchanging data, performing analysis, and more.
+User Guide
+Apache Kafka
+Send events from the Kafka event streaming platform to Snowflake.
+User Guide
+Apache Spark
+Integrate the Apache Spark analytics engine in Spark workloads for data processing directly on Snowflake.
+DRIVERS
+Build a Client App with Drivers and APIs
+Integrate Snowflake operations into a client app. In addition to the Snowpark API, you can also use language and platform specific drivers.
+Drivers
+Drivers allow you to connect from your code or apps to Snowflake. Using languages such as C#, Go, and Python, you can write applications that perform operations on Snowflake.
+Go Snowflake Driver
+JDBC Driver
+.NET Driver
+Node.js Driver
+ODBC Driver
+PHP PDO Driver
+Python Connector
+RESTful API
+Using the Snowflake RESTful SQL API, you can access and update data over HTTPS and REST. For example, you can submit SQL statements, create and execute stored procedures, provision users, and so on.
+In the SQL REST API, you submit a SQL statement for execution in the body of a POST request. You then check execution status and fetch results with GET requests.
+DEVELOPER GUIDE
+Snowflake SQL REST API
+Get started with the Snowflake SQL REST API.
+TOOLS
+Develop more efficiently
+Work with Snowflake using tools that integrate well with your existing workflow.
+Work with Snowflake from the command line
+Use the command line to create, manage, update, and view apps running on Snowflake across workloads.
+DEVELOPER GUIDE
+Introducing Snowflake CLI
+Learn about Snowflake CLI benefits and how it differs from SnowSQL.
+DEVELOPER GUIDE
+Installing Snowflake CLI
+Install Snowflake CLI using common package managers.
+REFERENCE
+Snowflake CLI command reference
+Explore commands for connecting, managing apps, objects, and other Snowflake features.
+Use Git from Snowflake
+Execute and use Git repository code directly from Snowflake.
+DEVELOPER GUIDE
+Using a Git repository in Snowflake
+Integrate your Git repository with Snowflake and fetch repository files to a repository stage that is a Git client with a full clone of the repository.
+DEVELOPER GUIDE
+Setting up Snowflake to use Git
+Set up Snowflake to securely interact with your Git repository.
+DEVELOPER GUIDE
+Git operations in Snowflake
+Perform common Git operations from within Snowflake, including fetching files, viewing branches or tags, and executing repository code.
+Language
+:
+English
+English
+Français
+Deutsch
+日本語
+한국어
+Português

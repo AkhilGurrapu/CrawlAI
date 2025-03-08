@@ -1,0 +1,607 @@
+Table of contents
+Microsoft Fabric documentation
+Microsoft Fabric is a unified platform that can meet your organization's data and analytics needs. Discover the capabilities Fabric has to offer, understand how it works, and how to use it.
+Overview
+What is Microsoft Fabric?
+Get started
+Try Microsoft Fabric for free
+Overview
+Security in Microsoft Fabric
+Concept
+Choose a Fabric data store
+Concept
+Copilot in Microsoft Fabric
+Tutorial
+Build solutions with taskflows
+Tutorial
+Develop with end-to-end tutorials
+Concept
+Fabric capacity and license types
+Explore Microsoft Fabric
+Learn about Microsoft Fabric, evaluate its features, the experiences it offers, analyze your data and run reports.
+Power BI
+Find insights, track progress, and make decisions faster using interactive visualizations.
+Data Factory
+Solve complex data ingestion, transformation, and orchestration scenarios.
+OneLake
+Store all your organization's data in OneLake, a single, unified, logical data lake.
+Databases
+Create operational SQL databases seamlessly for transactional workloads.
+Real-Time Intelligence
+Discover insights from your streaming data. Quickly ingest, query, create visualizations, and take actions on changes in your data.
+Fabric Data Engineering
+Build, transform, and share your data estate using lakehouses, notebooks, and Spark environments.
+Fabric Data Science
+Unlock powerful insights using AI and machine learning technology.
+Fabric Data Warehouse
+Analyze data in a secure SQL warehouse for greater scale and performance in an open data format.
+Microsoft Fabric shared platform
+Begin your journey with Microsoft Fabric. Import, transform, and visualize data, manage resources, stay updated with product news, explore migration guides, and utilize Copilot in Fabric.
+Get started
+Tour the Fabric portal
+Collaborate and share items
+Use task flows
+Try Copilot in Fabric
+See more
+Migrate to Fabric
+Migrate to Data Factory
+Migrate from Azure Synapse Spark to Fabric
+From Synapse dedicated SQL pools to Fabric
+See more
+Decision guides
+Choose a data store
+Copy Activity, Dataflow, or Spark Guide
+Warehouse and Lakehouse
+See more
+Administer your resources
+What is Fabric administration?
+Enable Fabric
+What is the admin portal?
+Manage Fabric capacity
+See more
+Get data into Fabric
+Get data into a Lakehouse
+Get data into Warehouse
+Get data with pipelines
+Get data into KQL database
+Get data with eventstreams
+Get data with Real-Time hub
+See more
+Store data
+Store data in an Eventhouse
+Store data in a lakehouse
+Semantic models
+Datamarts
+See more
+Prepare and transform data
+Transform data in a lakehouse
+Transform data in a KQL queryset
+Transform data in a notebook using Data Wrangler
+Transform data in a warehouse
+Transform data with Copilot for notebooks
+Transform data with eventstreams
+See more
+Visualize data
+Visualize with paginated reports
+Visualize using real-time dashboards
+Notebook visualization
+Use AutoML and tune visualizations
+Create reports with Copilot
+See more
+Build and evaluate models
+Machine learning model in Fabric
+Train machine learning models
+Build a model with SynapseML
+Machine learning model scoring
+See more
+Use AI capabilities and get insights with Copilot
+Overview of Copilot in Fabric
+Copilot privacy, security, and responsible use
+Copilot FAQ
+Copilot billing and reporting
+See more
+Govern your resources
+Governance and compliance in Fabric
+Domains
+Endorsement
+Information protection
+See more
+Secure resources
+Security in Fabric
+Managed VNets
+Private Links
+Trusted workspace access
+Row-level security (RLS) with Power BI
+See more
+Stay informed with product updates
+What's new in Microsoft Fabric?
+Microsoft Fabric release plans
+Microsoft Fabric updates blog
+Custom visuals change log
+See more
+Develop in Fabric
+Build your solutions using Fabric, utilize the Workload Development Kit, set up CI/CD pipelines and Git integration, and develop with REST and JavaScript APIs.
+Application Lifecycle Management (ALM)
+Deployment pipelines
+Git integration
+Automate Git integration by using APIs
+See more
+Build reports
+Power BI embedded analytics
+Power BI custom visuals
+Power BI template apps
+See more
+Develop with APIs
+Fabric REST API
+Power BI REST API
+Power BI embedded analytics Client APIs
+See more
+Solutions for ISVs
+Fabric for ISVs
+Workload development kit
+See more
+Community
+Discover Fabric, access training materials, learning paths. Stay updated with the blog, engage in forums, contribute ideas, join user groups, and explore the MVP program.
+Learning
+Jumpstart your career with the Career Hub
+Skill up with Microsoft Learn 30 Day Plans
+Explore role-based learning paths
+Fabric on YouTube
+Fabric flashcards
+Community resources
+Ask questions in our forums
+Vote and contribute product ideas
+Fabric updates blog
+Signup for the Fabric newsletter
+Get involved
+Join a user group
+Join a local event
+Recognition programs
+MVP program
+Microsoft Learn Student Ambassadors program
+Related products
+Power Platform
+Power Platform is a low-code platform that allows users to easily create and automate business solutions using Power Apps, Power Automate, and Power BI.
+Power Apps documentation
+Power Automate documentation
+Azure Synapse Analytics
+Azure Synapse is a limitless analytics service that brings together enterprise data warehouse and Big Data analytics.
+Azure Synapse Analytics documentation
+Get started with Azure Synapse Analytics
+Azure Data Factory
+Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation.
+Azure Data Factory documentation
+Get started with Azure Data Factory
+Microsoft Fabric documentation
+Microsoft Fabric is a unified platform that can meet your organization's data and analytics needs. Discover the capabilities Fabric has to offer, understand how it works, and how to use it.
+Overview
+What is Microsoft Fabric?
+Get started
+Try Microsoft Fabric for free
+Overview
+Security in Microsoft Fabric
+Concept
+Choose a Fabric data store
+Concept
+Copilot in Microsoft Fabric
+Tutorial
+Build solutions with taskflows
+Tutorial
+Develop with end-to-end tutorials
+Concept
+Fabric capacity and license types
+Explore Microsoft Fabric
+Learn about Microsoft Fabric, evaluate its features, the experiences it offers, analyze your data and run reports.
+Power BI
+Find insights, track progress, and make decisions faster using interactive visualizations.
+Data Factory
+Solve complex data ingestion, transformation, and orchestration scenarios.
+OneLake
+Store all your organization's data in OneLake, a single, unified, logical data lake.
+Databases
+Create operational SQL databases seamlessly for transactional workloads.
+Real-Time Intelligence
+Discover insights from your streaming data. Quickly ingest, query, create visualizations, and take actions on changes in your data.
+Fabric Data Engineering
+Build, transform, and share your data estate using lakehouses, notebooks, and Spark environments.
+Fabric Data Science
+Unlock powerful insights using AI and machine learning technology.
+Fabric Data Warehouse
+Analyze data in a secure SQL warehouse for greater scale and performance in an open data format.
+Microsoft Fabric shared platform
+Begin your journey with Microsoft Fabric. Import, transform, and visualize data, manage resources, stay updated with product news, explore migration guides, and utilize Copilot in Fabric.
+Get started
+Tour the Fabric portal
+Collaborate and share items
+Use task flows
+Try Copilot in Fabric
+See more
+Migrate to Fabric
+Migrate to Data Factory
+Migrate from Azure Synapse Spark to Fabric
+From Synapse dedicated SQL pools to Fabric
+See more
+Decision guides
+Choose a data store
+Copy Activity, Dataflow, or Spark Guide
+Warehouse and Lakehouse
+See more
+Administer your resources
+What is Fabric administration?
+Enable Fabric
+What is the admin portal?
+Manage Fabric capacity
+See more
+Get data into Fabric
+Get data into a Lakehouse
+Get data into Warehouse
+Get data with pipelines
+Get data into KQL database
+Get data with eventstreams
+Get data with Real-Time hub
+See more
+Store data
+Store data in an Eventhouse
+Store data in a lakehouse
+Semantic models
+Datamarts
+See more
+Prepare and transform data
+Transform data in a lakehouse
+Transform data in a KQL queryset
+Transform data in a notebook using Data Wrangler
+Transform data in a warehouse
+Transform data with Copilot for notebooks
+Transform data with eventstreams
+See more
+Visualize data
+Visualize with paginated reports
+Visualize using real-time dashboards
+Notebook visualization
+Use AutoML and tune visualizations
+Create reports with Copilot
+See more
+Build and evaluate models
+Machine learning model in Fabric
+Train machine learning models
+Build a model with SynapseML
+Machine learning model scoring
+See more
+Use AI capabilities and get insights with Copilot
+Overview of Copilot in Fabric
+Copilot privacy, security, and responsible use
+Copilot FAQ
+Copilot billing and reporting
+See more
+Govern your resources
+Governance and compliance in Fabric
+Domains
+Endorsement
+Information protection
+See more
+Secure resources
+Security in Fabric
+Managed VNets
+Private Links
+Trusted workspace access
+Row-level security (RLS) with Power BI
+See more
+Stay informed with product updates
+What's new in Microsoft Fabric?
+Microsoft Fabric release plans
+Microsoft Fabric updates blog
+Custom visuals change log
+See more
+Develop in Fabric
+Build your solutions using Fabric, utilize the Workload Development Kit, set up CI/CD pipelines and Git integration, and develop with REST and JavaScript APIs.
+Application Lifecycle Management (ALM)
+Deployment pipelines
+Git integration
+Automate Git integration by using APIs
+See more
+Build reports
+Power BI embedded analytics
+Power BI custom visuals
+Power BI template apps
+See more
+Develop with APIs
+Fabric REST API
+Power BI REST API
+Power BI embedded analytics Client APIs
+See more
+Solutions for ISVs
+Fabric for ISVs
+Workload development kit
+See more
+Community
+Discover Fabric, access training materials, learning paths. Stay updated with the blog, engage in forums, contribute ideas, join user groups, and explore the MVP program.
+Learning
+Jumpstart your career with the Career Hub
+Skill up with Microsoft Learn 30 Day Plans
+Explore role-based learning paths
+Fabric on YouTube
+Fabric flashcards
+Community resources
+Ask questions in our forums
+Vote and contribute product ideas
+Fabric updates blog
+Signup for the Fabric newsletter
+Get involved
+Join a user group
+Join a local event
+Recognition programs
+MVP program
+Microsoft Learn Student Ambassadors program
+Related products
+Power Platform
+Power Platform is a low-code platform that allows users to easily create and automate business solutions using Power Apps, Power Automate, and Power BI.
+Power Apps documentation
+Power Automate documentation
+Azure Synapse Analytics
+Azure Synapse is a limitless analytics service that brings together enterprise data warehouse and Big Data analytics.
+Azure Synapse Analytics documentation
+Get started with Azure Synapse Analytics
+Azure Data Factory
+Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation.
+Azure Data Factory documentation
+Get started with Azure Data Factory
+Microsoft Fabric documentation
+Microsoft Fabric is a unified platform that can meet your organization's data and analytics needs. Discover the capabilities Fabric has to offer, understand how it works, and how to use it.
+Overview
+What is Microsoft Fabric?
+Overview
+What is Microsoft Fabric?
+Get started
+Try Microsoft Fabric for free
+Get started
+Try Microsoft Fabric for free
+Overview
+Security in Microsoft Fabric
+Overview
+Security in Microsoft Fabric
+Concept
+Choose a Fabric data store
+Concept
+Choose a Fabric data store
+Concept
+Copilot in Microsoft Fabric
+Concept
+Copilot in Microsoft Fabric
+Tutorial
+Build solutions with taskflows
+Tutorial
+Build solutions with taskflows
+Tutorial
+Develop with end-to-end tutorials
+Tutorial
+Develop with end-to-end tutorials
+Concept
+Fabric capacity and license types
+Concept
+Fabric capacity and license types
+Power BI
+Find insights, track progress, and make decisions faster using interactive visualizations.
+Data Factory
+Solve complex data ingestion, transformation, and orchestration scenarios.
+OneLake
+Store all your organization's data in OneLake, a single, unified, logical data lake.
+Databases
+Create operational SQL databases seamlessly for transactional workloads.
+Real-Time Intelligence
+Discover insights from your streaming data. Quickly ingest, query, create visualizations, and take actions on changes in your data.
+Fabric Data Engineering
+Build, transform, and share your data estate using lakehouses, notebooks, and Spark environments.
+Fabric Data Science
+Unlock powerful insights using AI and machine learning technology.
+Fabric Data Warehouse
+Analyze data in a secure SQL warehouse for greater scale and performance in an open data format.
+Get started
+Tour the Fabric portal
+Collaborate and share items
+Use task flows
+Try Copilot in Fabric
+See more
+Tour the Fabric portal
+Collaborate and share items
+Use task flows
+Try Copilot in Fabric
+Migrate to Fabric
+Migrate to Data Factory
+Migrate from Azure Synapse Spark to Fabric
+From Synapse dedicated SQL pools to Fabric
+See more
+Migrate to Data Factory
+Migrate from Azure Synapse Spark to Fabric
+From Synapse dedicated SQL pools to Fabric
+Decision guides
+Choose a data store
+Copy Activity, Dataflow, or Spark Guide
+Warehouse and Lakehouse
+See more
+Choose a data store
+Copy Activity, Dataflow, or Spark Guide
+Warehouse and Lakehouse
+Administer your resources
+What is Fabric administration?
+Enable Fabric
+What is the admin portal?
+Manage Fabric capacity
+See more
+What is Fabric administration?
+Enable Fabric
+What is the admin portal?
+Manage Fabric capacity
+Get data into Fabric
+Get data into a Lakehouse
+Get data into Warehouse
+Get data with pipelines
+Get data into KQL database
+Get data with eventstreams
+Get data with Real-Time hub
+See more
+Get data into a Lakehouse
+Get data into Warehouse
+Get data with pipelines
+Get data into KQL database
+Get data with eventstreams
+Get data with Real-Time hub
+Store data
+Store data in an Eventhouse
+Store data in a lakehouse
+Semantic models
+Datamarts
+See more
+Store data in an Eventhouse
+Store data in a lakehouse
+Semantic models
+Datamarts
+Prepare and transform data
+Transform data in a lakehouse
+Transform data in a KQL queryset
+Transform data in a notebook using Data Wrangler
+Transform data in a warehouse
+Transform data with Copilot for notebooks
+Transform data with eventstreams
+See more
+Transform data in a lakehouse
+Transform data in a KQL queryset
+Transform data in a notebook using Data Wrangler
+Transform data in a warehouse
+Transform data with Copilot for notebooks
+Transform data with eventstreams
+Visualize data
+Visualize with paginated reports
+Visualize using real-time dashboards
+Notebook visualization
+Use AutoML and tune visualizations
+Create reports with Copilot
+See more
+Visualize with paginated reports
+Visualize using real-time dashboards
+Notebook visualization
+Use AutoML and tune visualizations
+Create reports with Copilot
+Build and evaluate models
+Machine learning model in Fabric
+Train machine learning models
+Build a model with SynapseML
+Machine learning model scoring
+See more
+Machine learning model in Fabric
+Train machine learning models
+Build a model with SynapseML
+Machine learning model scoring
+Use AI capabilities and get insights with Copilot
+Overview of Copilot in Fabric
+Copilot privacy, security, and responsible use
+Copilot FAQ
+Copilot billing and reporting
+See more
+Overview of Copilot in Fabric
+Copilot privacy, security, and responsible use
+Copilot FAQ
+Copilot billing and reporting
+Govern your resources
+Governance and compliance in Fabric
+Domains
+Endorsement
+Information protection
+See more
+Governance and compliance in Fabric
+Domains
+Endorsement
+Information protection
+Secure resources
+Security in Fabric
+Managed VNets
+Private Links
+Trusted workspace access
+Row-level security (RLS) with Power BI
+See more
+Security in Fabric
+Managed VNets
+Private Links
+Trusted workspace access
+Row-level security (RLS) with Power BI
+Stay informed with product updates
+What's new in Microsoft Fabric?
+Microsoft Fabric release plans
+Microsoft Fabric updates blog
+Custom visuals change log
+See more
+What's new in Microsoft Fabric?
+Microsoft Fabric release plans
+Microsoft Fabric updates blog
+Custom visuals change log
+Application Lifecycle Management (ALM)
+Deployment pipelines
+Git integration
+Automate Git integration by using APIs
+See more
+Deployment pipelines
+Git integration
+Automate Git integration by using APIs
+Build reports
+Power BI embedded analytics
+Power BI custom visuals
+Power BI template apps
+See more
+Power BI embedded analytics
+Power BI custom visuals
+Power BI template apps
+Develop with APIs
+Fabric REST API
+Power BI REST API
+Power BI embedded analytics Client APIs
+See more
+Fabric REST API
+Power BI REST API
+Power BI embedded analytics Client APIs
+Solutions for ISVs
+Fabric for ISVs
+Workload development kit
+See more
+Fabric for ISVs
+Workload development kit
+Learning
+Jumpstart your career with the Career Hub
+Skill up with Microsoft Learn 30 Day Plans
+Explore role-based learning paths
+Fabric on YouTube
+Fabric flashcards
+Jumpstart your career with the Career Hub
+Skill up with Microsoft Learn 30 Day Plans
+Explore role-based learning paths
+Fabric on YouTube
+Fabric flashcards
+Community resources
+Ask questions in our forums
+Vote and contribute product ideas
+Fabric updates blog
+Signup for the Fabric newsletter
+Ask questions in our forums
+Vote and contribute product ideas
+Fabric updates blog
+Signup for the Fabric newsletter
+Get involved
+Join a user group
+Join a local event
+Join a user group
+Join a local event
+Recognition programs
+MVP program
+Microsoft Learn Student Ambassadors program
+MVP program
+Microsoft Learn Student Ambassadors program
+Power Platform
+Power Platform is a low-code platform that allows users to easily create and automate business solutions using Power Apps, Power Automate, and Power BI.
+Power Apps documentation
+Power Automate documentation
+Azure Synapse Analytics
+Azure Synapse is a limitless analytics service that brings together enterprise data warehouse and Big Data analytics.
+Azure Synapse Analytics documentation
+Get started with Azure Synapse Analytics
+Azure Data Factory
+Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation.
+Azure Data Factory documentation
+Get started with Azure Data Factory

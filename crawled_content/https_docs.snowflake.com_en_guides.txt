@@ -1,0 +1,12 @@
+Title: Guides - Snowflake Documentation
+
+Snowsight distills Snowflake’s powerful SQL support into a unified, easy-to-use experience. Use Snowsight to perform your critical Snowflake operations.
+Detailed instructions for installing, configuring, and using the Snowflake command-line client, snowsql.
+The Snowflake Connectors provide native integration of third-party applications and database systems in Snowflake. The connectors provide instant access to current data without the need to manually integrate against API endpoints.
+Learn how to set up and use virtual data warehouses to process the SQL statements that you execute.
+Learn how to design and create tables and views for your data.
+Learn about Snowflake data types and their uses
+Snowflake supports standard SQL, including a subset of ANSI SQL:1999 and the SQL:2003 analytic extensions. Learn how to use queries to interact with Snowflake using simple queries, joins, and more.
+Views are just the beginning of how you can examine data. Snowflake provides a number of mechanism for joining data including Materialized Views and Dynamic Tables.
+Streams and tasks make executing complex task based solutions simple and easy. Streams allow you to track changes to database objects and tasks provide a mechanism to then execute SQL when those events occur.
+ML Functions are Snowflake’s intelligent, fully-managed service that enables organizations to quickly analyze data within Snowflake.
